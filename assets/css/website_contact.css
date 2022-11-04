@@ -1,0 +1,41 @@
+/*
+.pageheader{background-color:#466D9D;}
+*/
+
+.htext1{font-size:12px;color:white;}
+.htext2b{font-size:25px;color:white;
+margin-right:10px}
+
+.skills_base{width:100%;padding:5px;
+border:solid 0px white;display:inline-block;}
+.skills_text{font-size:25px;color:white;}
+.skills_dash{font-size:25px;color:white;}
+.htext3{
+font-family:calibri;font-size:12px;color:#E8E4DE;
+line-height:20px;display:inline-block;width:50%;
+text-align:justify;padding:5px 10px;}
+
+
+.hbase_links{margin:20px 0px;}
+.hlinks{text-decoration:none;color:lightblue;
+padding:10px ;margin-left:11px;border:solid 1px white; }
+
+.hlinks:hover{background-color:white;
+cursor:pointer; }
+
+.socials{color:#ffffff;padding:10px;
+margin-left:5px;font-size:30px;
+}
+.socials:hover{background-color:white;
+cursor:pointer;color:lightblue; }
+
+.blue{border:solid 4px blue;color:blue;
+font-weight:bolder;width:15%;
+display:inline-block;}
+
+.red{border:solid 4px red;color:red;
+font-weight:bolder;width:15%;
+display:inline-block;}
+.brown{border:solid 0px brown;color:brown;}
+.green{border:solid 0px green;color:green;
+font-weight:bolder;}
